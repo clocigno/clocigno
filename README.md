@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @clocigno
 - 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning solidity 
 - 💞️ I’m looking to collaborate on anything that helps decentralize the web
 - 📫 Reach me at clocigno@gmail.com
 
